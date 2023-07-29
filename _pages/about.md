@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Max Planck Ring 8</p>
+    <p>72076, Tuebingen</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,7 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a computational cognitive scientist with a background in physics and education in computational neuroscience, my research delves into the fascinating realm of human pattern learning, the acquisition of abstract concepts, and the extraction of meaningful relations from perceptual sequences. With a passion for understanding both artificial and biological neural activities, my goal is to contribute to the advancement of AI safety while empowering our ability to unravel the intricacies of the human brain and behavior. By bridging the gap between neuroscience and artificial intelligence, I aim to drive innovation and make significant strides toward unlocking the full potential of intelligent systems.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
